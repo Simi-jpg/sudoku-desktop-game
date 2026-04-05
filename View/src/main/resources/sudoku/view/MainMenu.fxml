@@ -146,7 +146,7 @@
             <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="40.0" prefWidth="300.0"
                text="%MENU_TITLE" textAlignment="CENTER">
                <font>
-                  <Font name="System Bold" size="25.0" />
+                  <Font name="System Bold" size="20.0" />
                </font>
             </Label>
             <HBox alignment="CENTER" prefHeight="45.0" prefWidth="600.0">
